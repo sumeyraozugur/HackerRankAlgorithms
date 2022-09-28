@@ -2,7 +2,7 @@
 
 - Algorithms
     - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/1.kt)
-    - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) -> [Solution]()
+    - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/2.kt)
     - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/2.kt)
     - Compare the Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/3.kt)
 
