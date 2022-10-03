@@ -36,6 +36,7 @@
    * Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/33.kt)
    * Viral Advertising | [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/34.kt)
    * Save the Prisoner! | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/35.kt)
+ <!--
     * Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/36.kt)
     * Sequence Equation  | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/37.kt)
     * Jumping on the Clouds:Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/38.kt)
@@ -52,5 +53,6 @@
    * Queesn's Attac 2 | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/49.kt)
    * ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) -> [Solution](https://github.com/sumeyraozugur/HackerRankAlgorithms/blob/main/app/src/main/java/com/sum/algorithms/50.kt)
     
+ -->
      
    
